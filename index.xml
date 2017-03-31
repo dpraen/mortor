@@ -718,10 +718,10 @@ A dedicated PDDM will be assigned to your account. You will have full access to 
 
 &lt;tr style=&#34;padding: 2%;&#34;&gt;
   &lt;th style=&#34;padding: 1%;&#34;&gt;&lt;/th&gt;
-  &lt;td&gt;&lt;div style=&#34;width:20%;&#34;&gt;&lt;img width=&#34;150px&#34; src=&#34;{{ .Site.BaseURL }}/img/leather-package.png&#34;&lt;/td&gt;&lt;/div&gt;
-	  &lt;td&gt;&lt;div style=&#34;width: 20%;&#34;&gt;&lt;img width=&#34;150px&#34; src=&#34;{{ .Site.BaseURL }}/img/bronze-package.png&#34;&lt;/td&gt;&lt;/div&gt;
-		  &lt;div style=&#34;width:20%&#34;;&gt;&lt;td&gt;&lt;img width=&#34;150px&#34; src=&#34;{{ .Site.BaseURL }}/img/silver-package.png&#34;&lt;/td&gt;&lt;/div&gt;
-		  &lt;div style=&#34;width:20%;&#34;&gt;  &lt;td&gt;&lt;img width=&#34;150px&#34; src=&#34;{{ .Site.BaseURL }}/img/gold-package.png&#34;&lt;/td&gt;&lt;/div&gt;
+  &lt;td&gt;&lt;div style=&#34;width:20%;&#34;&gt;&lt;img width=&#34;150px&#34; src=&#34;https://dpraen.github.io/mortor/img/leather-package.png&#34;&lt;/td&gt;&lt;/div&gt;
+	  &lt;td&gt;&lt;div style=&#34;width: 20%;&#34;&gt;&lt;img width=&#34;150px&#34; src=&#34;https://dpraen.github.io/mortor/img/bronze-package.png&#34;&lt;/td&gt;&lt;/div&gt;
+		  &lt;div style=&#34;width:20%&#34;;&gt;&lt;td&gt;&lt;img width=&#34;150px&#34; src=&#34;https://dpraen.github.io/mortor/img/silver-package.png&#34;&lt;/td&gt;&lt;/div&gt;
+		  &lt;div style=&#34;width:20%;&#34;&gt;  &lt;td&gt;&lt;img width=&#34;150px&#34; src=&#34;https://dpraen.github.io/mortor/img/gold-package.png&#34;&lt;/td&gt;&lt;/div&gt;
 &lt;/tr&gt;
 
 &lt;tr style=&#34;padding: 2%;&#34;&gt;
