@@ -2,33 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://example.org/blog/2015/10/10/migrate-from-jekyll/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>https://example.org/blog/2017/03/03/wordpress-vs-hugo-smackdown/</loc>
+    <lastmod>2017-03-03T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/2015/10/02/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://example.org/blog/2017/02/28/markdown-vs-html-smackdown/</loc>
+    <lastmod>2017-02-28T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/2015/09/17/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>https://example.org/blog/2017/02/27/write-great-web-copy-hemingway/</loc>
+    <lastmod>2017-02-27T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/2015/08/03/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>https://example.org/blog/2017/02/22/microsoft-coding-ai/</loc>
+    <lastmod>2017-02-22T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/2015/06/24/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://example.org/blog/2017/01/14/universal-illness-cure/</loc>
+    <lastmod>2017-01-14T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/blog/2016/12/29/introduction-to-mautic/</loc>
+    <lastmod>2016-12-29T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/ai/</loc>
+    <lastmod>2017-02-22T13:50:46+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://example.org/blog/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2017-03-03T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -42,60 +53,82 @@
   </url>
   
   <url>
+    <loc>https://example.org/tags/copywriting/</loc>
+    <lastmod>2017-02-28T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/development/</loc>
+    <lastmod>2017-03-03T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/development/</loc>
+    <lastmod>2017-03-03T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/digital-marketing/</loc>
+    <lastmod>2017-02-27T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/digital-marketing/</loc>
+    <lastmod>2017-02-28T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://example.org/faq/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>https://example.org/tags/fringe-technology/</loc>
+    <lastmod>2017-01-14T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/golang/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://example.org/categories/marketing-automation/</loc>
+    <lastmod>2016-12-29T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/hugo/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://example.org/tags/mautic/</loc>
+    <lastmod>2016-12-29T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/ipsum/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>https://example.org/</loc>
+    <lastmod>2017-03-03T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/lorem/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>https://example.org/tags/open-source/</loc>
+    <lastmod>2016-12-29T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://example.org/packages/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/seo-copywriting/</loc>
+    <lastmod>2017-02-27T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.org/categories/pseudo/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.org/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://example.org/categories/static-site-generators/</loc>
+    <lastmod>2017-03-03T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -105,14 +138,8 @@
   </url>
   
   <url>
-    <loc>https://example.org/tags/theme/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.org/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>https://example.org/categories/technology/</loc>
+    <lastmod>2017-01-14T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ai on Mortor</title>
+    <link>https://example.org/tags/ai/index.xml</link>
+    <description>Recent content in Ai on Mortor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017, Mortor; all rights reserved.</copyright>
+    <atom:link href="https://example.org/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft&#39;s Coding AI</title>
+      <link>https://example.org/blog/2017/02/22/microsoft-coding-ai/</link>
+      <pubDate>Wed, 22 Feb 2017 13:50:46 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2017/02/22/microsoft-coding-ai/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://thenextweb.com/artificial-intelligence/2017/02/23/microsofts-new-ai-sucks-at-coding-as-much-as-the-typical-stack-overflow-user/#.tnw_V6JxUG6q&#34;&gt;Microsoft has released a new artificial intelligence that can write code.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;automation-hysteria&#34;&gt;automation hysteria&lt;/h3&gt;
+
+&lt;p&gt;Some people in the tech community have been reacting badly to this.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m not even a bit concerned.&lt;/p&gt;
+
+&lt;p&gt;In fact, think that if tools like this are perfected, it would be a great boon for developers. I&amp;rsquo;ll explain why below.&lt;/p&gt;
+
+&lt;h3 id=&#34;a-coding-ai&#34;&gt;a coding ai&lt;/h3&gt;
+
+&lt;p&gt;In essence, what this thing does is use a database of code snippets.&lt;/p&gt;
+
+&lt;p&gt;it then combines them into something usable.&lt;/p&gt;
+
+&lt;p&gt;As in the linked article says, this is like a typical &lt;a href=&#34;http://www.stackoverflow.com&#34;&gt;Stack Overflow&lt;/a&gt; user.&lt;/p&gt;
+
+&lt;p&gt;This user copies and pastes code from the site and then modifies it to do what he or she needs.&lt;/p&gt;
+
+&lt;p&gt;The &amp;ldquo;intelligence&amp;rdquo; part is how the AI chooses code fragments and fits them together.&lt;/p&gt;
+
+&lt;h3 id=&#34;why-it-shouldn-t-concern-the-average-developer&#34;&gt;why it shouldn&amp;rsquo;t concern the average developer&lt;/h3&gt;
+
+&lt;p&gt;Development isn&amp;rsquo;t all about writing code.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s about determining what the problem is, and then writing out a logical solution.&lt;/p&gt;
+
+&lt;p&gt;This is usually in the form of code, but not always.&lt;/p&gt;
+
+&lt;p&gt;This AI won&amp;rsquo;t be able to determine a problem or write specifications by itself.&lt;/p&gt;
+
+&lt;p&gt;It will still be humans who need to do that.&lt;/p&gt;
+
+&lt;p&gt;In order for a machine to determine problems and find logical solutions&amp;hellip; a much broader AI will need to be developed - one that can build its own metal model of the world.&lt;/p&gt;
+
+&lt;h3 id=&#34;why-this-will-actually-help-developers&#34;&gt;why this will actually help developers&lt;/h3&gt;
+
+&lt;p&gt;At the moment this tool can only handle problems that can be solved with around 5 lines of code.&lt;/p&gt;
+
+&lt;p&gt;A promising start, but it needs a lot of work.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s say that Microsoft perfect this.&lt;/p&gt;
+
+&lt;p&gt;The tool will help developers rather than replace them. Think of it as another layer of abstraction.&lt;/p&gt;
+
+&lt;p&gt;Another step from the first compiler to fourth generation high level languages.&lt;/p&gt;
+
+&lt;p&gt;Could a non-developer be as skillful at using this new kind of tool as an experienced developer?&lt;/p&gt;
+
+&lt;p&gt;With few exceptions, no.&lt;/p&gt;
+
+&lt;p&gt;It may make programming more accessible, but the most productive developers will still be &amp;hellip; well, developers.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
