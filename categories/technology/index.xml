@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on Mortor</title>
-    <link>https://example.org/categories/technology/index.xml</link>
+    <link>https://dpraen.github.io/mortor/categories/technology/index.xml</link>
     <description>Recent content in Technology on Mortor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017, Mortor; all rights reserved.</copyright>
-    <atom:link href="https://example.org/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dpraen.github.io/mortor/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Universal Illness Cure</title>
-      <link>https://example.org/blog/2017/01/14/universal-illness-cure/</link>
+      <link>https://dpraen.github.io/mortor/blog/2017/01/14/universal-illness-cure/</link>
       <pubDate>Sat, 14 Jan 2017 13:50:46 +0200</pubDate>
       
-      <guid>https://example.org/blog/2017/01/14/universal-illness-cure/</guid>
+      <guid>https://dpraen.github.io/mortor/blog/2017/01/14/universal-illness-cure/</guid>
       <description>
 
 &lt;h3 id=&#34;the-current-state-of-medicine&#34;&gt;The current state of medicine&lt;/h3&gt;

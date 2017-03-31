@@ -2,143 +2,143 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://example.org/blog/2017/03/03/wordpress-vs-hugo-smackdown/</loc>
+    <loc>https://dpraen.github.io/mortor/blog/2017/03/03/wordpress-vs-hugo-smackdown/</loc>
     <lastmod>2017-03-03T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/2017/02/28/markdown-vs-html-smackdown/</loc>
+    <loc>https://dpraen.github.io/mortor/blog/2017/02/28/markdown-vs-html-smackdown/</loc>
     <lastmod>2017-02-28T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/2017/02/27/write-great-web-copy-hemingway/</loc>
+    <loc>https://dpraen.github.io/mortor/blog/2017/02/27/write-great-web-copy-hemingway/</loc>
     <lastmod>2017-02-27T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/2017/02/22/microsoft-coding-ai/</loc>
+    <loc>https://dpraen.github.io/mortor/blog/2017/02/22/microsoft-coding-ai/</loc>
     <lastmod>2017-02-22T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/2017/01/14/universal-illness-cure/</loc>
+    <loc>https://dpraen.github.io/mortor/blog/2017/01/14/universal-illness-cure/</loc>
     <lastmod>2017-01-14T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/2016/12/29/introduction-to-mautic/</loc>
+    <loc>https://dpraen.github.io/mortor/blog/2016/12/29/introduction-to-mautic/</loc>
     <lastmod>2016-12-29T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/ai/</loc>
+    <loc>https://dpraen.github.io/mortor/tags/ai/</loc>
     <lastmod>2017-02-22T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/blog/</loc>
+    <loc>https://dpraen.github.io/mortor/blog/</loc>
     <lastmod>2017-03-03T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://dpraen.github.io/mortor/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/contact/</loc>
+    <loc>https://dpraen.github.io/mortor/contact/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/tags/copywriting/</loc>
+    <loc>https://dpraen.github.io/mortor/tags/copywriting/</loc>
     <lastmod>2017-02-28T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/development/</loc>
+    <loc>https://dpraen.github.io/mortor/tags/development/</loc>
     <lastmod>2017-03-03T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/development/</loc>
+    <loc>https://dpraen.github.io/mortor/categories/development/</loc>
     <lastmod>2017-03-03T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/digital-marketing/</loc>
+    <loc>https://dpraen.github.io/mortor/tags/digital-marketing/</loc>
     <lastmod>2017-02-27T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/digital-marketing/</loc>
+    <loc>https://dpraen.github.io/mortor/categories/digital-marketing/</loc>
     <lastmod>2017-02-28T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/faq/</loc>
+    <loc>https://dpraen.github.io/mortor/faq/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/tags/fringe-technology/</loc>
+    <loc>https://dpraen.github.io/mortor/tags/fringe-technology/</loc>
     <lastmod>2017-01-14T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/marketing-automation/</loc>
+    <loc>https://dpraen.github.io/mortor/categories/marketing-automation/</loc>
     <lastmod>2016-12-29T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/mautic/</loc>
+    <loc>https://dpraen.github.io/mortor/tags/mautic/</loc>
     <lastmod>2016-12-29T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://dpraen.github.io/mortor/</loc>
     <lastmod>2017-03-03T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/open-source/</loc>
+    <loc>https://dpraen.github.io/mortor/tags/open-source/</loc>
     <lastmod>2016-12-29T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/packages/</loc>
+    <loc>https://dpraen.github.io/mortor/packages/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/categories/seo-copywriting/</loc>
+    <loc>https://dpraen.github.io/mortor/categories/seo-copywriting/</loc>
     <lastmod>2017-02-27T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/static-site-generators/</loc>
+    <loc>https://dpraen.github.io/mortor/categories/static-site-generators/</loc>
     <lastmod>2017-03-03T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://dpraen.github.io/mortor/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/technology/</loc>
+    <loc>https://dpraen.github.io/mortor/categories/technology/</loc>
     <lastmod>2017-01-14T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>

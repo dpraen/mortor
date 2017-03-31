@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital Marketing on Mortor</title>
-    <link>https://example.org/categories/digital-marketing/index.xml</link>
+    <link>https://dpraen.github.io/mortor/categories/digital-marketing/index.xml</link>
     <description>Recent content in Digital Marketing on Mortor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017, Mortor; all rights reserved.</copyright>
-    <atom:link href="https://example.org/categories/digital-marketing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dpraen.github.io/mortor/categories/digital-marketing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>HTML vs Markdown - Smackdown</title>
-      <link>https://example.org/blog/2017/02/28/markdown-vs-html-smackdown/</link>
+      <link>https://dpraen.github.io/mortor/blog/2017/02/28/markdown-vs-html-smackdown/</link>
       <pubDate>Tue, 28 Feb 2017 13:50:46 +0200</pubDate>
       
-      <guid>https://example.org/blog/2017/02/28/markdown-vs-html-smackdown/</guid>
+      <guid>https://dpraen.github.io/mortor/blog/2017/02/28/markdown-vs-html-smackdown/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://leantesting.com/wp-content/uploads/2016/04/Markdown-mark.svg_.png&#34; width=&#34;45%&#34;&gt;

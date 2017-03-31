@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Source on Mortor</title>
-    <link>https://example.org/tags/open-source/index.xml</link>
+    <link>https://dpraen.github.io/mortor/tags/open-source/index.xml</link>
     <description>Recent content in Open Source on Mortor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017, Mortor; all rights reserved.</copyright>
-    <atom:link href="https://example.org/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dpraen.github.io/mortor/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Introduction to Mautic</title>
-      <link>https://example.org/blog/2016/12/29/introduction-to-mautic/</link>
+      <link>https://dpraen.github.io/mortor/blog/2016/12/29/introduction-to-mautic/</link>
       <pubDate>Thu, 29 Dec 2016 13:07:31 +0200</pubDate>
       
-      <guid>https://example.org/blog/2016/12/29/introduction-to-mautic/</guid>
+      <guid>https://dpraen.github.io/mortor/blog/2016/12/29/introduction-to-mautic/</guid>
       <description>
 
 &lt;h3 id=&#34;what-is-mautic&#34;&gt;what is mautic?&lt;/h3&gt;
@@ -35,7 +35,7 @@
 
 &lt;h3 id=&#34;price-comparison&#34;&gt;price comparison&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://example.org/images/mautic-pricing.PNG&#34;&gt;Click here for a Mautic feature/price comparison&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dpraen.github.io/mortor/images/mautic-pricing.PNG&#34;&gt;Click here for a Mautic feature/price comparison&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;getting-started&#34;&gt;getting started&lt;/h3&gt;
 
